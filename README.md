@@ -1,3 +1,3 @@
-# Platzi Scripts
+# Chlopez Scripts
 
 Dummy tests are in `jenkins-tests`
